@@ -73,7 +73,7 @@ package pro.sky.java.course1.cycle.lesson1.lesson2;
             }
         }
         //Задание 2.9
-        for (int i=1;i<=10;i++) {
+        for (int i=1;i<=10;i++)  {
             System.out.println("2*" + i + "=" + 2 * i);
         }
     }
